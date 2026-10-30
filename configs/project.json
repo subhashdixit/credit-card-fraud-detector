@@ -1,0 +1,157 @@
+{
+  "package": "card_fraud",
+  "title": "Card Fraud Explorer",
+  "old": "Credit_Card_Fraud_Detection",
+  "file": "creditcard.csv",
+  "target": "Class",
+  "url": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+  "download": "https://www.kaggle.com/api/v1/datasets/download/mlg-ulb/creditcardfraud",
+  "features": {
+    "V1": [
+      "Anonymized PCA component V1",
+      -1000000,
+      1000000
+    ],
+    "V2": [
+      "Anonymized PCA component V2",
+      -1000000,
+      1000000
+    ],
+    "V3": [
+      "Anonymized PCA component V3",
+      -1000000,
+      1000000
+    ],
+    "V4": [
+      "Anonymized PCA component V4",
+      -1000000,
+      1000000
+    ],
+    "V5": [
+      "Anonymized PCA component V5",
+      -1000000,
+      1000000
+    ],
+    "V6": [
+      "Anonymized PCA component V6",
+      -1000000,
+      1000000
+    ],
+    "V7": [
+      "Anonymized PCA component V7",
+      -1000000,
+      1000000
+    ],
+    "V8": [
+      "Anonymized PCA component V8",
+      -1000000,
+      1000000
+    ],
+    "V9": [
+      "Anonymized PCA component V9",
+      -1000000,
+      1000000
+    ],
+    "V10": [
+      "Anonymized PCA component V10",
+      -1000000,
+      1000000
+    ],
+    "V11": [
+      "Anonymized PCA component V11",
+      -1000000,
+      1000000
+    ],
+    "V12": [
+      "Anonymized PCA component V12",
+      -1000000,
+      1000000
+    ],
+    "V13": [
+      "Anonymized PCA component V13",
+      -1000000,
+      1000000
+    ],
+    "V14": [
+      "Anonymized PCA component V14",
+      -1000000,
+      1000000
+    ],
+    "V15": [
+      "Anonymized PCA component V15",
+      -1000000,
+      1000000
+    ],
+    "V16": [
+      "Anonymized PCA component V16",
+      -1000000,
+      1000000
+    ],
+    "V17": [
+      "Anonymized PCA component V17",
+      -1000000,
+      1000000
+    ],
+    "V18": [
+      "Anonymized PCA component V18",
+      -1000000,
+      1000000
+    ],
+    "V19": [
+      "Anonymized PCA component V19",
+      -1000000,
+      1000000
+    ],
+    "V20": [
+      "Anonymized PCA component V20",
+      -1000000,
+      1000000
+    ],
+    "V21": [
+      "Anonymized PCA component V21",
+      -1000000,
+      1000000
+    ],
+    "V22": [
+      "Anonymized PCA component V22",
+      -1000000,
+      1000000
+    ],
+    "V23": [
+      "Anonymized PCA component V23",
+      -1000000,
+      1000000
+    ],
+    "V24": [
+      "Anonymized PCA component V24",
+      -1000000,
+      1000000
+    ],
+    "V25": [
+      "Anonymized PCA component V25",
+      -1000000,
+      1000000
+    ],
+    "V26": [
+      "Anonymized PCA component V26",
+      -1000000,
+      1000000
+    ],
+    "V27": [
+      "Anonymized PCA component V27",
+      -1000000,
+      1000000
+    ],
+    "V28": [
+      "Anonymized PCA component V28",
+      -1000000,
+      1000000
+    ],
+    "Amount": [
+      "Transaction amount (source currency)",
+      0,
+      1000000000
+    ]
+  },
+  "integer": []
+}
