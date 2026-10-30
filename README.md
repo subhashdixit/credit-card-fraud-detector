@@ -1,5 +1,7 @@
 # Card Fraud Explorer
 
+**Live application:** [Open Credit Card Fraud Detector](https://credit-card-fraud-detector-0h7h.onrender.com) · [Source code](https://github.com/subhashdixit/credit-card-fraud-detector)
+
 An end-to-end **historical fraud-classification learning app**: Flask UI, JSON API, bounded CSV scoring, threshold exploration, reproducible training, measured evaluation, Docker and CI/CD.
 
 The original ULB dataset contains 284,807 historical transactions and 492 fraud labels. V1–V28 are anonymized PCA components; `Amount` is retained in source units. `Time` records elapsed seconds and is used only to split chronologically, not as a prediction input. You cannot derive these PCA features from a card number, purchase description or ordinary payment form. This is a source-format research application, not a card-processing integration.
